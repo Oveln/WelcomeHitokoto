@@ -1,0 +1,5 @@
+name: welcomehitokoto
+author: Oveln
+version: 1.0.0
+main: me.oveln.welcomehitokoto.main
+api-version: "1.17"
