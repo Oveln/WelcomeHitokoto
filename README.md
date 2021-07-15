@@ -1,1 +1,15 @@
-WelcomeHitokoto
+# WelcomeHitokoto
+
+## 版本1.17
+
+## 功能
+
+实现玩家进入服务器后向玩家发送一段信息，信息内可以包含一言API所给的句子
+
+在配置文件中
+
+%player%表示玩家名字
+
+%hitokoto%表示一言句子
+
+默认配置文件内有说明
